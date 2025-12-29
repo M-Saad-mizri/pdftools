@@ -8,7 +8,7 @@ PDFCraft Pro is a modern, **100% free**, frontend-only PDF manipulation suite. U
 [![Privacy: 100% Client-Side](https://img.shields.io/badge/Privacy-100%25_Client--Side-brightgreen)](https://github.com)
 [![Tech: HTML5 / Tailwind / JS](https://img.shields.io/badge/Tech-HTML5_/_Tailwind_/_JS-blue)](https://github.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
-[![Live Preview](https://via.placeholder.com/800x400?text=PDFCraft+Pro+Live+Demo)](https://pdffreetools.netlify.app/)
+[🚀 Live Demo](https://pdffreetools.netlify.app/)
 
 ## ✨ Key Features
 
